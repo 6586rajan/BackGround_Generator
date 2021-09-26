@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/6586rajan/BackGround_Generator/issues"
   },
-  "homepage": "https://github.com/6586rajan/BackGround_Generator#readme"
+  "homepage": "https://github.com/6586rajan/BackGround_Generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
