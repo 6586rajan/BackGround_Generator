@@ -1,0 +1,22 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "creata a gradient between two colors\r https://6586rajan.github.io/BackGround_Generator/",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6586rajan/BackGround_Generator.git"
+  },
+  "keywords": [
+    "generator"
+  ],
+  "author": "Rajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/6586rajan/BackGround_Generator/issues"
+  },
+  "homepage": "https://github.com/6586rajan/BackGround_Generator#readme"
+}
